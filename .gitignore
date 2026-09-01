@@ -1,0 +1,48 @@
+# Generated datasets and exports
+data/
+runs/
+
+# Local agent/runtime state
+.agents/
+__pycache__/
+.pytest_cache/
+
+# Python cache/build artifacts
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local logs and temp files
+*.log
+*.tmp
+*.temp
+
+/info-access-mle-sabotage\mlebench_subversion\sabotage_tasks_complex_v1\denoising-dirty-documents\ground_truth.csv
+subagent_reports
+.cache
+.mplcache
+dev_only

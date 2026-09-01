@@ -1,0 +1,12 @@
+inspect_ai==0.3.93
+openai==2.45.0
+pydantic==2.13.4
+pandas==1.5.2
+numpy==1.24.1
+PyYAML==6.0.2
+python-dotenv==1.0.1
+platformdirs==4.10.0
+pyarrow==17.0.0
+ijson==3.5.0            # data_utils/preprocess_native_benign.py
+google-genai==2.6.0
+json-repair==0.63.4

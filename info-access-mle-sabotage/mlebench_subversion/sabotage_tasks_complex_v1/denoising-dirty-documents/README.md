@@ -1,0 +1,1 @@
+If you are encountering LFS issues when pulling the `ground_truth.csv` in this directory, you can find it at [this link](https://drive.google.com/file/d/100c-_ejXNdzkFJxpNIK5OqXVooEeSRJx/view?usp=drive_link).
