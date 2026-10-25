@@ -1,4 +1,6 @@
-# Augmented Extract-and-Evaluate Monitoring
+# Formal Analysis Hints Improve Weak-to-Strong Monitoring
+
+This is the official codebase associated with the paper "*Back to Basics: Formal Analysis Hints Improve Weak-to-Strong Monitoring*".
 
 ## Requirements
 
