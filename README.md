@@ -1,6 +1,6 @@
-# Formal Analysis Hints Improve Weak-to-Strong Monitoring
+# Back to Basics: Formal Analysis Hints Improve Weak-to-Strong Monitoring
 
-This is the official codebase associated with the paper "*Back to Basics: Formal Analysis Hints Improve Weak-to-Strong Monitoring*".
+This is the official codebase associated with the paper "*Back to Basics: Formal Analysis Hints Improve Weak-to-Strong Monitoring*". Instructions for setup and running experiments can be found below.
 
 ## Requirements
 
